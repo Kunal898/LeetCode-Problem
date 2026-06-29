@@ -1,23 +1,88 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1470-shuffle-the-array](https://github.com/Kunal898/LeetCode-Problem/tree/master/1470-shuffle-the-array) |
-| [1929-concatenation-of-array](https://github.com/Kunal898/LeetCode-Problem/tree/master/1929-concatenation-of-array) |
-## Simulation
-|  |
-| ------- |
-| [1929-concatenation-of-array](https://github.com/Kunal898/LeetCode-Problem/tree/master/1929-concatenation-of-array) |
-## Two Pointers
-|  |
-| ------- |
-| [0125-valid-palindrome](https://github.com/Kunal898/LeetCode-Problem/tree/master/0125-valid-palindrome) |
-| [0344-reverse-string](https://github.com/Kunal898/LeetCode-Problem/tree/master/0344-reverse-string) |
-## String
-|  |
-| ------- |
-| [0125-valid-palindrome](https://github.com/Kunal898/LeetCode-Problem/tree/master/0125-valid-palindrome) |
-| [0344-reverse-string](https://github.com/Kunal898/LeetCode-Problem/tree/master/0344-reverse-string) |
-<!---LeetCode Topics End-->
+<h1 align="center">
+🚀 LeetCode Journey
+</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72F&center=true&vCenter=true&width=700&lines=Welcome+to+My+LeetCode+Journey!;Daily+Coding+Practice;Preparing+for+Coding+Interviews;Never+Stop+Learning+🚀">
+</p>
+
+---
+
+# 💻 LeetCode Progress
+
+## 📚 Topics Covered
+
+### 🟢 Array
+- ✅ 1470 - Shuffle the Array
+- ✅ 1929 - Concatenation of Array
+
+### 🔵 Simulation
+- ✅ 1929 - Concatenation of Array
+
+### 🟣 Two Pointers
+- ✅ 0125 - Valid Palindrome
+- ✅ 0344 - Reverse String
+
+### 🟠 String
+- ✅ 0125 - Valid Palindrome
+- ✅ 0344 - Reverse String
+
+---
+
+# 📊 Statistics
+
+<p align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Baloo&ext=contest)
+
+</p>
+
+---
+
+# 🏆 Progress
+
+```
+Solved: ██░░░░░░░░░░░░░░
+Easy:   ██░░░░░░░░░░░░░░
+Medium: ░░░░░░░░░░░░░░░░
+Hard:   ░░░░░░░░░░░░░░░░
+```
+
+---
+
+# 📁 Repository Structure
+
+```
+LeetCode/
+│
+├── Array/
+│   ├── 1470-Shuffle-the-Array
+│   └── 1929-Concatenation-of-Array
+│
+├── String/
+│   ├── 125-Valid-Palindrome
+│   └── 344-Reverse-String
+│
+├── Two-Pointers/
+│   ├── 125-Valid-Palindrome
+│   └── 344-Reverse-String
+│
+└── Simulation/
+    └── 1929-Concatenation-of-Array
+```
+
+---
+
+# 🎯 Goal
+
+- 🔥 Solve 300+ Problems
+- 🚀 Master Data Structures & Algorithms
+- 💼 Crack FAANG Interviews
+
+---
+
+<p align="center">
+
+⭐ If you like this repository, consider giving it a star!
+
+</p>
