@@ -1,58 +1,94 @@
 <h1 align="center">
-🚀 LeetCode Journey
+  🚀 LeetCode Journey
 </h1>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=900&lines=Welcome+to+Kunal+Navdhinge's+LeetCode+Journey!;Daily+Coding+Practice+💻;Data+Structures+%26+Algorithms;Preparing+for+Coding+Interviews;Consistency+Beats+Talent+🔥;Never+Stop+Learning+🚀" />
+</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72F&center=true&vCenter=true&width=700&lines=Welcome+to+My+LeetCode+Journey!;Daily+Coding+Practice;Preparing+for+Coding+Interviews;Never+Stop+Learning+🚀">
+  <img src="https://komarev.com/ghpvc/?username=KunalNavdhinge&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/KunalNavdhinge/LeetCode?style=for-the-badge&color=yellow"/>
+  <img src="https://img.shields.io/github/forks/KunalNavdhinge/LeetCode?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </p>
 
 ---
 
-# 💻 LeetCode Progress
+# 📖 About
 
-## 📚 Topics Covered
+Welcome to my **LeetCode Journey**.
 
-### 🟢 Array
+This repository contains my daily solutions to LeetCode problems while preparing for coding interviews and improving my problem-solving skills.
+
+### 🎯 Goals
+
+- ✅ Solve **300+ LeetCode Problems**
+- 📚 Master **Data Structures & Algorithms**
+- 💼 Crack Product-Based Company Interviews
+- 🚀 Stay Consistent Every Day
+
+---
+
+# 📊 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/KunalNavdhinge?theme=dark&font=Baloo&ext=contest"/>
+
+</p>
+
+---
+
+# 🏆 Progress Tracker
+
+| Difficulty | Progress |
+|------------|----------|
+| 🟢 Easy | ██░░░░░░░░░░░ |
+| 🟡 Medium | ░░░░░░░░░░░░░ |
+| 🔴 Hard | ░░░░░░░░░░░░░ |
+
+### ✅ Total Solved
+
+```text
+████░░░░░░░░░░░░░░░
+```
+
+---
+
+# 📚 Topics Covered
+
+## 🟢 Array
+
 - ✅ 1470 - Shuffle the Array
 - ✅ 1929 - Concatenation of Array
 
-### 🔵 Simulation
+---
+
+## 🔵 Simulation
+
 - ✅ 1929 - Concatenation of Array
 
-### 🟣 Two Pointers
-- ✅ 0125 - Valid Palindrome
-- ✅ 0344 - Reverse String
+---
 
-### 🟠 String
-- ✅ 0125 - Valid Palindrome
-- ✅ 0344 - Reverse String
+## 🟣 Two Pointers
+
+- ✅ 125 - Valid Palindrome
+- ✅ 344 - Reverse String
 
 ---
 
-# 📊 Statistics
+## 🟠 String
 
-<p align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Baloo&ext=contest)
-
-</p>
+- ✅ 125 - Valid Palindrome
+- ✅ 344 - Reverse String
 
 ---
 
-# 🏆 Progress
+# 📂 Repository Structure
 
-```
-Solved: ██░░░░░░░░░░░░░░
-Easy:   ██░░░░░░░░░░░░░░
-Medium: ░░░░░░░░░░░░░░░░
-Hard:   ░░░░░░░░░░░░░░░░
-```
-
----
-
-# 📁 Repository Structure
-
-```
+```text
 LeetCode/
 │
 ├── Array/
@@ -73,16 +109,51 @@ LeetCode/
 
 ---
 
-# 🎯 Goal
+# 🔥 Current Focus
 
-- 🔥 Solve 300+ Problems
-- 🚀 Master Data Structures & Algorithms
-- 💼 Crack FAANG Interviews
+```text
+🌱 Learning DSA
+███████████░░░░░░░ 60%
+
+💻 Daily LeetCode
+██████████████░░░░ 80%
+
+🚀 Interview Prep
+█████████░░░░░░░░░ 50%
+```
 
 ---
 
+# 💡 Motivation
+
+> **"Success doesn't come from what you do occasionally. It comes from what you do consistently."** 🚀
+
+---
+
+# 🌟 Let's Connect
+
 <p align="center">
 
-⭐ If you like this repository, consider giving it a star!
+<a href="https://leetcode.com/KunalNavdhinge">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/KunalNavdhinge">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </p>
+
+---
+
+<h3 align="center">
+
+⭐ If you like this repository, don't forget to give it a ⭐!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Happy+Coding!;Keep+Grinding!;One+Problem+at+a+Time!+🚀">
+
+</h3>
