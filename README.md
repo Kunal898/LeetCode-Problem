@@ -157,3 +157,15 @@ LeetCode/
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Happy+Coding!;Keep+Grinding!;One+Problem+at+a+Time!+🚀">
 
 </h3>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Kunal898/LeetCode-Problem/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Kunal898/LeetCode-Problem/tree/master/0876-middle-of-the-linked-list) |
+<!---LeetCode Topics End-->
