@@ -179,6 +179,7 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Kunal898/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +199,7 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Kunal898/LeetCode-Problem/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -208,4 +210,12 @@ LeetCode/
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Kunal898/LeetCode-Problem/tree/main/0682-baseball-game/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
