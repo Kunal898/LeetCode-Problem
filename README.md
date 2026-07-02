@@ -189,6 +189,7 @@ LeetCode/
 | [0020-valid-parentheses](https://github.com/Kunal898/LeetCode-Problem/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Kunal898/LeetCode-Problem/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Kunal898/LeetCode-Problem/tree/main/0682-baseball-game/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +198,7 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Kunal898/LeetCode-Problem/tree/master/0020-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,4 +207,5 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Kunal898/LeetCode-Problem/tree/main/0682-baseball-game/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
