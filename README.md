@@ -172,6 +172,7 @@ LeetCode/
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Kunal898/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Kunal898/LeetCode-Problem/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kunal898/LeetCode-Problem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -200,6 +201,7 @@ LeetCode/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kunal898/LeetCode-Problem/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Array
@@ -220,4 +222,8 @@ LeetCode/
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
