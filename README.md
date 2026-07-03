@@ -190,6 +190,7 @@ LeetCode/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kunal898/LeetCode-Problem/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Kunal898/LeetCode-Problem/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Kunal898/LeetCode-Problem/tree/main/0682-baseball-game/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -226,4 +227,16 @@ LeetCode/
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
