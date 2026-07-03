@@ -161,8 +161,8 @@ LeetCode/
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kunal898/LeetCode-Problem/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Kunal898/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Kunal898/LeetCode-Problem/tree/master/0206-reverse-linked-list) |
@@ -170,52 +170,54 @@ LeetCode/
 | [0876-middle-of-the-linked-list](https://github.com/Kunal898/LeetCode-Problem/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kunal898/LeetCode-Problem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0141-linked-list-cycle](https://github.com/Kunal898/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Kunal898/LeetCode-Problem/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kunal898/LeetCode-Problem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Kunal898/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Kunal898/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0206-reverse-linked-list](https://github.com/Kunal898/LeetCode-Problem/tree/master/0206-reverse-linked-list) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/Kunal898/LeetCode-Problem/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Kunal898/LeetCode-Problem/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Kunal898/LeetCode-Problem/tree/main/0682-baseball-game/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0155-min-stack](https://github.com/Kunal898/LeetCode-Problem/tree/master/0155-min-stack) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/Kunal898/LeetCode-Problem/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Kunal898/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0682-baseball-game](https://github.com/Kunal898/LeetCode-Problem/tree/main/0682-baseball-game/) | Easy |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0682-baseball-game](https://github.com/Kunal898/LeetCode-Problem/tree/main/0682-baseball-game/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
