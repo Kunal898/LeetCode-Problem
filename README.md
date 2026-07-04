@@ -161,8 +161,8 @@ LeetCode/
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kunal898/LeetCode-Problem/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Kunal898/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Kunal898/LeetCode-Problem/tree/master/0206-reverse-linked-list) |
@@ -170,25 +170,25 @@ LeetCode/
 | [0876-middle-of-the-linked-list](https://github.com/Kunal898/LeetCode-Problem/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kunal898/LeetCode-Problem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Kunal898/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Kunal898/LeetCode-Problem/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kunal898/LeetCode-Problem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Kunal898/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Kunal898/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Kunal898/LeetCode-Problem/tree/master/0206-reverse-linked-list) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Kunal898/LeetCode-Problem/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
@@ -197,54 +197,60 @@ LeetCode/
 | [0682-baseball-game](https://github.com/Kunal898/LeetCode-Problem/tree/main/0682-baseball-game/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/Kunal898/LeetCode-Problem/tree/master/0155-min-stack) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Kunal898/LeetCode-Problem/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Kunal898/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0682-baseball-game](https://github.com/Kunal898/LeetCode-Problem/tree/main/0682-baseball-game/) | Easy |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0682-baseball-game](https://github.com/Kunal898/LeetCode-Problem/tree/main/0682-baseball-game/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Kunal898/LeetCode-Problem/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Kunal898/LeetCode-Problem/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Kunal898/LeetCode-Problem/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
