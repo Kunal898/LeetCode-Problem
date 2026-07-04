@@ -253,4 +253,8 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kunal898/LeetCode-Problem/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1791-find-center-of-star-graph](https://github.com/Kunal898/LeetCode-Problem/tree/main/1791-find-center-of-star-graph/) | Easy |
 <!---LeetCode Topics End-->
