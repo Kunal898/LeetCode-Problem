@@ -243,6 +243,7 @@ LeetCode/
 | [0144-binary-tree-preorder-traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0547-number-of-provinces](https://github.com/Kunal898/LeetCode-Problem/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Kunal898/LeetCode-Problem/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -259,12 +260,15 @@ LeetCode/
 | ------- |
 | [0547-number-of-provinces](https://github.com/Kunal898/LeetCode-Problem/tree/master/0547-number-of-provinces) |
 | [1791-find-center-of-star-graph](https://github.com/Kunal898/LeetCode-Problem/tree/main/1791-find-center-of-star-graph/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/Kunal898/LeetCode-Problem/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Kunal898/LeetCode-Problem/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Kunal898/LeetCode-Problem/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Kunal898/LeetCode-Problem/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Kunal898/LeetCode-Problem/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
