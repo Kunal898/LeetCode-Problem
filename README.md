@@ -182,6 +182,7 @@ LeetCode/
 | [0001-two-sum](https://github.com/Kunal898/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Kunal898/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0997-find-the-town-judge](https://github.com/Kunal898/LeetCode-Problem/tree/master/0997-find-the-town-judge) |
 ## Recursion
 |  |
 | ------- |
@@ -212,6 +213,7 @@ LeetCode/
 | ------- |
 | [0001-two-sum](https://github.com/Kunal898/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0682-baseball-game](https://github.com/Kunal898/LeetCode-Problem/tree/main/0682-baseball-game/) | Easy |
+| [0997-find-the-town-judge](https://github.com/Kunal898/LeetCode-Problem/tree/master/0997-find-the-town-judge) |
 ## Simulation
 |  |
 | ------- |
@@ -259,6 +261,7 @@ LeetCode/
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Kunal898/LeetCode-Problem/tree/master/0547-number-of-provinces) |
+| [0997-find-the-town-judge](https://github.com/Kunal898/LeetCode-Problem/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Kunal898/LeetCode-Problem/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kunal898/LeetCode-Problem/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
