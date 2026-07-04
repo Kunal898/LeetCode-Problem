@@ -186,6 +186,7 @@ LeetCode/
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Kunal898/LeetCode-Problem/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/Kunal898/LeetCode-Problem/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
@@ -204,6 +205,7 @@ LeetCode/
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Kunal898/LeetCode-Problem/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Kunal898/LeetCode-Problem/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal898/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -274,4 +276,8 @@ LeetCode/
 | ------- |
 | [0547-number-of-provinces](https://github.com/Kunal898/LeetCode-Problem/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kunal898/LeetCode-Problem/tree/master/1971-find-if-path-exists-in-graph) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Kunal898/LeetCode-Problem/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
