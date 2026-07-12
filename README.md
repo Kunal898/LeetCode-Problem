@@ -280,4 +280,8 @@ LeetCode/
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Kunal898/LeetCode-Problem/tree/master/0010-regular-expression-matching) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Kunal898/LeetCode-Problem/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
