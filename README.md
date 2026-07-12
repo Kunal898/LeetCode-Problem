@@ -197,3 +197,11 @@ LeetCode-Problem/
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:00F5A0,100:7B61FF"/>
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Kunal898/LeetCode-Problem/tree/master/0196-delete-duplicate-emails) |
+<!---LeetCode Topics End-->
