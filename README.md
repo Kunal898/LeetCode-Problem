@@ -1,115 +1,199 @@
-<!---LeetCode Topics Start-->
+<div align="center">
 
-# 📚 LeetCode Topics
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=LeetCode%20Journey&fontAlign=50&fontAlignY=40&color=0:00F5A0,50:00D9FF,100:7B61FF&fontColor=ffffff&animation=fadeIn"/>
 
-## 🔗 Linked List
+# 🚀 Kunal Navdhinge's LeetCode Journey
 
-| Problem |
-| ------- |
-| [0083 - Remove Duplicates from Sorted List](https://github.com/Kunal898/LeetCode-Problem/tree/master/0083-remove-duplicates-from-sorted-list) |
-| [0141 - Linked List Cycle](https://github.com/Kunal898/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
-| [0206 - Reverse Linked List](https://github.com/Kunal898/LeetCode-Problem/tree/master/0206-reverse-linked-list) |
-| [0237 - Delete Node in a Linked List](https://github.com/Kunal898/LeetCode-Problem/tree/master/0237-delete-node-in-a-linked-list) |
-| [0876 - Middle of the Linked List](https://github.com/Kunal898/LeetCode-Problem/tree/master/0876-middle-of-the-linked-list) |
-| [2095 - Delete the Middle Node of a Linked List](https://github.com/Kunal898/LeetCode-Problem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=00F5A0&lines=Welcome+to+My+LeetCode+Repository!;Python+%7C+SQL+Solutions;Data+Structures+%26+Algorithms;Consistency+Over+Motivation+🔥;One+Problem+Every+Day+🚀" />
 
-## 👆 Two Pointers
+<p>
 
-| Problem |
-| ------- |
-| [0028 - Find the Index of the First Occurrence in a String](https://github.com/Kunal898/LeetCode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0141 - Linked List Cycle](https://github.com/Kunal898/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
-| [0876 - Middle of the Linked List](https://github.com/Kunal898/LeetCode-Problem/tree/master/0876-middle-of-the-linked-list) |
-| [2095 - Delete the Middle Node of a Linked List](https://github.com/Kunal898/LeetCode-Problem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+<img src="https://komarev.com/ghpvc/?username=Kunal898&style=for-the-badge&color=blueviolet"/>
 
-## 🗂️ Hash Table
+<img src="https://img.shields.io/github/stars/Kunal898/LeetCode-Problem?style=for-the-badge&logo=github&color=yellow"/>
 
-| Problem |
-| ------- |
-| [0001 - Two Sum](https://github.com/Kunal898/LeetCode-Problem/tree/master/0001-two-sum) |
-| [0141 - Linked List Cycle](https://github.com/Kunal898/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
-| [0387 - First Unique Character in a String](https://github.com/Kunal898/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
-| [0997 - Find the Town Judge](https://github.com/Kunal898/LeetCode-Problem/tree/master/0997-find-the-town-judge) |
+<img src="https://img.shields.io/github/forks/Kunal898/LeetCode-Problem?style=for-the-badge&logo=github&color=blue"/>
 
-## 🔁 Recursion
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-| Problem |
-| ------- |
-| [0010 - Regular Expression Matching](https://github.com/Kunal898/LeetCode-Problem/tree/master/0010-regular-expression-matching) |
-| [0206 - Reverse Linked List](https://github.com/Kunal898/LeetCode-Problem/tree/master/0206-reverse-linked-list) |
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-## 📚 Stack
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
-| Problem |
-| ------- |
-| [0020 - Valid Parentheses](https://github.com/Kunal898/LeetCode-Problem/tree/master/0020-valid-parentheses) |
-| [0094 - Binary Tree Inorder Traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
-| [0144 - Binary Tree Preorder Traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
-| [0145 - Binary Tree Postorder Traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
-| [0155 - Min Stack](https://github.com/Kunal898/LeetCode-Problem/tree/master/0155-min-stack) |
-| [0682 - Baseball Game](https://github.com/Kunal898/LeetCode-Problem/tree/master/0682-baseball-game) |
-| [2390 - Removing Stars From a String](https://github.com/Kunal898/LeetCode-Problem/tree/master/2390-removing-stars-from-a-string) |
+</p>
 
-## 🎨 Design
+</div>
 
-| Problem |
-| ------- |
-| [0155 - Min Stack](https://github.com/Kunal898/LeetCode-Problem/tree/master/0155-min-stack) |
+---
 
-## 🔤 String
+# 📖 About
 
-| Problem |
-| ------- |
-| [0010 - Regular Expression Matching](https://github.com/Kunal898/LeetCode-Problem/tree/master/0010-regular-expression-matching) |
-| [0020 - Valid Parentheses](https://github.com/Kunal898/LeetCode-Problem/tree/master/0020-valid-parentheses) |
-| [0028 - Find the Index of the First Occurrence in a String](https://github.com/Kunal898/LeetCode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0387 - First Unique Character in a String](https://github.com/Kunal898/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
-| [2390 - Removing Stars From a String](https://github.com/Kunal898/LeetCode-Problem/tree/master/2390-removing-stars-from-a-string) |
+This repository contains my **LeetCode solutions** in **Python** and **SQL** while preparing for coding interviews.
 
-## 📦 Array
+## 🎯 Goals
 
-| Problem |
-| ------- |
-| [0001 - Two Sum](https://github.com/Kunal898/LeetCode-Problem/tree/master/0001-two-sum) |
-| [0682 - Baseball Game](https://github.com/Kunal898/LeetCode-Problem/tree/master/0682-baseball-game) |
-| [0997 - Find the Town Judge](https://github.com/Kunal898/LeetCode-Problem/tree/master/0997-find-the-town-judge) |
+- ✅ 500+ Problems
+- ✅ Master DSA
+- ✅ Crack Product-Based Companies
+- ✅ Improve Problem Solving
+- ✅ Stay Consistent
 
-## 🎮 Simulation
+---
 
-| Problem |
-| ------- |
-| [0682 - Baseball Game](https://github.com/Kunal898/LeetCode-Problem/tree/master/0682-baseball-game) |
-| [2390 - Removing Stars From a String](https://github.com/Kunal898/LeetCode-Problem/tree/master/2390-removing-stars-from-a-string) |
+# 🏆 LeetCode Stats
 
-## 🌳 Tree
+<p align="center">
 
-| Problem |
-| ------- |
-| [0094 - Binary Tree Inorder Traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
-| [0144 - Binary Tree Preorder Traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
-| [0145 - Binary Tree Postorder Traversal](https://github.com/Kunal898/LeetCode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
-| [0700 - Search in a Binary Search Tree](https://github.com/Kunal898/LeetCode-Problem/tree/master/0700-search-in-a-binary-search-tree) |
+<img src="https://leetcard.jacoblin.cool/KunalNavdhinge?theme=dark&font=Baloo&ext=contest"/>
 
-## 🌐 Graph
+</p>
 
-| Problem |
-| ------- |
-| [0547 - Number of Provinces](https://github.com/Kunal898/LeetCode-Problem/tree/master/0547-number-of-provinces) |
-| [0997 - Find the Town Judge](https://github.com/Kunal898/LeetCode-Problem/tree/master/0997-find-the-town-judge) |
-| [1791 - Find Center of Star Graph](https://github.com/Kunal898/LeetCode-Problem/tree/master/1791-find-center-of-star-graph) |
-| [1971 - Find if Path Exists in Graph](https://github.com/Kunal898/LeetCode-Problem/tree/master/1971-find-if-path-exists-in-graph) |
+---
 
-## 🧠 Dynamic Programming
+# 📈 GitHub Stats
 
-| Problem |
-| ------- |
-| [0010 - Regular Expression Matching](https://github.com/Kunal898/LeetCode-Problem/tree/master/0010-regular-expression-matching) |
+<p align="center">
 
-## 🗄️ SQL (Database)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kunal898&show_icons=true&theme=tokyonight"/>
 
-| Problem |
-| ------- |
-| [0175 - Combine Two Tables](https://github.com/Kunal898/LeetCode-Problem/tree/master/0175-combine-two-tables) |
-| [0182 - Duplicate Emails](https://github.com/Kunal898/LeetCode-Problem/tree/master/0182-duplicate-emails) |
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal898&theme=tokyonight"/>
 
-<!---LeetCode Topics End-->
+</p>
+
+---
+
+# ⚡ Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📚 Topics Covered
+
+<div align="center">
+
+| Topic | Progress |
+|--------|----------|
+| 🔗 Linked List | ✅ |
+| 📦 Array | ✅ |
+| 🔤 String | ✅ |
+| 📚 Stack | ✅ |
+| 👆 Two Pointers | ✅ |
+| 🗂️ Hash Table | ✅ |
+| 🌳 Tree | ✅ |
+| 🌐 Graph | ✅ |
+| 🧠 Dynamic Programming | ✅ |
+| 🗄️ SQL | ✅ |
+
+</div>
+
+---
+
+# 📂 Repository Structure
+
+```text
+LeetCode-Problem/
+
+├── Python/
+│   ├── Array
+│   ├── Linked List
+│   ├── String
+│   ├── Stack
+│   ├── Tree
+│   ├── Graph
+│   └── Dynamic Programming
+│
+└── SQL/
+    ├── Easy
+    ├── Medium
+    └── Hard
+```
+
+---
+
+# 🎯 Progress
+
+```text
+🟢 Easy
+██████████████████░░ 90%
+
+🟡 Medium
+█████████░░░░░░░░░░░ 45%
+
+🔴 Hard
+██░░░░░░░░░░░░░░░░░░ 10%
+```
+
+---
+
+# 💻 Current Focus
+
+```text
+🐍 Python
+████████████████░░░░ 80%
+
+📚 DSA
+███████████████░░░░░ 75%
+
+🗄️ SQL
+█████████████░░░░░░░ 65%
+
+🎯 Interview Prep
+██████████████░░░░░░ 70%
+```
+
+---
+
+# 💡 Motivation
+
+<div align="center">
+
+> ### ⭐ "Small progress every day adds up to big results."
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Never+Stop+Learning.;Keep+Grinding.;One+Problem+at+a+Time.;Consistency+Wins." />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://leetcode.com/KunalNavdhinge">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/Kunal898">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kunal-navdhinge">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# ⭐ Thanks for Visiting!
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:00F5A0,100:7B61FF"/>
+
+</div>
