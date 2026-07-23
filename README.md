@@ -203,5 +203,6 @@ LeetCode-Problem/
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Kunal898/LeetCode-Problem/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Kunal898/LeetCode-Problem/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
